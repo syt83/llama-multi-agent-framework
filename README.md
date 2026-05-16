@@ -20,7 +20,7 @@ Boss-Agent + Worker-Agent 구조를 구현한 멀티 에이전트 AI 시스템
 - Synthesizer: 결과 통합
 
 - ## 🏗 Architecture
-
+```
 User Request
    ↓
 Boss Agent (Task Planning)
@@ -33,7 +33,7 @@ Worker Pool (Parallel Execution)
 Synthesizer (Final Answer)
    ↓
 Response
-
+```
 ## ⚙️ Features
 
 - 🧠 Multi-Agent Architecture (Boss + Workers)
